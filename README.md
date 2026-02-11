@@ -68,7 +68,8 @@ Child Mind Instituteが開発した研究用デバイス「Helios」のデータ
 1. chrome分割タブ機能、拡張機能のサイドバーを使用してai studio、github、参考サイトなどを表示させながら進行
 2. githubでnew repository作成でkaggle_bass_repoテンプレートで名前だけ変更する
 3. githubで「. + any key」でweb版vs codeが開けるのでファイルやフォルダを作成、削除する
-4. kaggle notebook でinputファイルセット
+4. kaggle notebook でupload > new dataset > link > githubのURLコピペで末尾.git消去
+5. 
 
 ## githubでの編集方法chips
 - マークダウンの書き方

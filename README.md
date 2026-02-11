@@ -96,11 +96,5 @@ Child Mind Instituteが開発した研究用デバイス「Helios」のデータ
 │    │
 │    ├exp_2（exp_1をコピーして改変して使用）
 │
-├reference
-  ├note
-  │  ├ipynb.md
-  │
-  ├discuss
-      ├discuss_pdf_or_.md  
 
 ```
